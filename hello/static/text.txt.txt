@@ -1,1 +1,1 @@
-This is atest and this is a static file
+This is a test and this is a static file for my django project real time testing!!!
